@@ -34,6 +34,7 @@
 ## ⚙️ Installation
 
 ```sh
-git clone https://github.com/yourusername/smart-file-renamer.git
-cd smart-file-renamer
+git clone https://github.com/yourusername/ai-file-renamer.git
+cd ai-file-renamer
 pip install -r requirements.txt
+
