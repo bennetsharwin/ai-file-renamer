@@ -1,6 +1,6 @@
-# Smart File Renamer (GenAI‑Powered)
+# AI File Renamer (GenAI‑Powered)
 
-**Smart File Renamer** is an intelligent, AI-powered Python tool that automatically analyzes image and document content to generate meaningful and structured filenames. It transforms cryptic names like `IMG_1234.jpg` into descriptive names such as `2025-06-10_coffee_receipt.jpg`, enhancing searchability, organization, and productivity.
+**AI File Renamer** is an intelligent, AI-powered Python tool that automatically analyzes image and document content to generate meaningful and structured filenames. It transforms cryptic names like `IMG_1234.jpg` into descriptive names such as `2025-06-10_coffee_receipt.jpg`, enhancing searchability, organization, and productivity.
 
 ---
 
@@ -34,6 +34,27 @@
 ## ⚙️ Installation
 
 ```sh
-git clone https://github.com/yourusername/smart-file-renamer.git
-cd smart-file-renamer
+git clone https://github.com/yourusername/ai-file-renamer.git
+cd ai-file-renamer
 pip install -r requirements.txt
+```
+
+---
+
+## 🔑 Setting Your Google Gemini API Key
+
+Before running the tool, you must set your Google Gemini API key as an environment variable. Replace `YOUR_API_KEY_HERE` with your actual API key.
+
+**On Windows PowerShell:**
+```powershell
+$env:google_api_key="YOUR_API_KEY_HERE"
+```
+
+**On Windows Command Prompt (cmd):**
+```cmd
+set google_api_key=YOUR_API_KEY_HERE
+```
+
+You must run the above command in the same terminal session before executing the Python script.
+
+---
