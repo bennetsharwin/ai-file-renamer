@@ -70,3 +70,15 @@ python main.py -s <source_folder>
 Replace `<source_folder>` with the path to the folder containing all the images and files you want to rename. The tool will process every supported file in that folder.
 
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions, bug reports, or want to add features, please open an issue or submit a pull request.
+
+---
