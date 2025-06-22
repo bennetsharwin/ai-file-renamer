@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - **AI-Powered Image Analysis**  
-  Utilizes Google Gemini Vision to identify objects, scenes, and text in images—supports screenshots, receipts, photos, diagrams, etc.
+  Utilizes Google Gemini Vision to identify objects, scenes, and text in images. supports screenshots, receipts, photos, diagrams, etc.
 
 - **Document Content Parsing**  
   Employs OCR and NLP to extract topics and dates from PDFs, text files, and code—produces names like `Invoice_Apple_2025_Q1.pdf`.
