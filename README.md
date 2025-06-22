@@ -58,3 +58,15 @@ set google_api_key=YOUR_API_KEY_HERE
 You must run the above command in the same terminal session before executing the Python script.
 
 ---
+
+## ▶️ Running the Tool
+
+To run the AI File Renamer, use the following command:
+
+```sh
+python main.py -s <source_folder>
+```
+
+Replace `<source_folder>` with the path to the folder containing all the images and files you want to rename. The tool will process every supported file in that folder.
+
+---
